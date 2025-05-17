@@ -539,6 +539,12 @@ https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", Paramount+
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium178/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Atalanta" tvg-name="20:45 Italy - Serie A : Genoa vs Atalanta - 17/05/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-05/1747478801_genoa-x-atalanta.png" group-title="Soccer", CBS Sports Golazo
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -652,6 +658,12 @@ https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Lyonnais vs Angers SCO" tvg-name="21:00 France - Ligue 1 : Olympique Lyonnais vs Angers SCO - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium69/mono.m3u8
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - Olympique Lyonnais vs Angers SCO" tvg-name="21:00 France - Ligue 1 : Olympique Lyonnais vs Angers SCO - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN SPORTS USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1348,6 +1360,12 @@ https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
+
+#EXTINF:-1 tvg-id="Slovakia Extraliga Playoffs - Astrum Levice vs. BK Inter Bratislava" tvg-name="17:00 Slovakia Extraliga Playoffs : Astrum Levice vs. BK Inter Bratislava - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", JOJ Sport Slovakia 2 HD
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium192/mono.m3u8
 
 #EXTINF:-1 tvg-id="MTS Streetball Winter League - Kragujevac" tvg-name="17:00 MTS Streetball Winter League : Kragujevac - 17/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 10 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
