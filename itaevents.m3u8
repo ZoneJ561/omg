@@ -1,415 +1,1075 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Juventus vs Manchester City" tvg-name="21:00 FIFA Club World Cup : Juventus vs Manchester City - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
-
-#EXTINF:-1 tvg-id="Ecuador Serie B - Atlético Vinotinto vs Guayaquil City" tvg-name="22:30 Ecuador Serie B : Atlético Vinotinto vs Guayaquil City - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
-
-#EXTINF:-1 tvg-id="Ecuador Serie B - Nueve de Octubre vs Gualaceo" tvg-name="02:00 Ecuador Serie B : Nueve de Octubre vs Gualaceo - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Canal del Futbol
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs América Mineiro" tvg-name="02:35 Brazil - Serie B : CRB vs América Mineiro - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Criciúma vs Avaí" tvg-name="00:00 Brazil - Serie B : Criciúma vs Avaí - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Salzburg vs Real Madrid" tvg-name="03:00 FIFA Club World Cup : Salzburg vs Real Madrid - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Vancouver FC" tvg-name="04:00 Canadian Premier League : Pacific vs Vancouver FC - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Vancouver FC" tvg-name="04:00 Canadian Premier League : Pacific vs Vancouver FC - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cosmote Sport 6 HD
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium472/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium396/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium383/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 3 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium118/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", M+ #Vamos Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium431/mono.m3u8
+
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium915/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MENA 7
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
+#EXTINF:-1 tvg-id="Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds" tvg-name="11:30 Eastbourne-ATP/WTA, Mallorca-ATP & Bad Homburg-WTA Early Rounds - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", 5 Sport Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 tvg-id="GT World Challenge - Belgium Qualification" tvg-name="21:10 GT World Challenge: Belgium Qualification - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Cup 3x3 - Madagascar 3x3 vs Serbia 3x3" tvg-name="05:25 World Cup 3x3 : Madagascar 3x3 vs Serbia 3x3 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Franklin Bulls" tvg-name="08:00 NBL : Manawatu Jets vs Franklin Bulls - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Cup 3x3 - Serbia 3x3 vs Germany 3x3" tvg-name="08:30 World Cup 3x3 : Serbia 3x3 vs Germany 3x3 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
 
-#EXTINF:-1 tvg-id="KLS - Final, G3" tvg-name="20:00 KLS : Final, G3 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
 
-#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Ulm" tvg-name="20:00 GERMAN LEAGUE : Bayern vs Ulm - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DYN DE
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
 
-#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Ulm" tvg-name="20:00 GERMAN LEAGUE : Bayern vs Ulm - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
 
-#EXTINF:-1 tvg-id="GERMAN LEAGUE - Bayern vs Ulm" tvg-name="20:00 GERMAN LEAGUE : Bayern vs Ulm - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
 
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 HD
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Draft - Round 2" tvg-name="02:00 NBA Draft: Round 2 - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Iseael
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA W - Los Angeles Sparks W vs Indiana Fever W" tvg-name="01:00 WNBA W : Los Angeles Sparks W vs Indiana Fever W - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium15/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA W - Washington Mystics W vs Las Vegas Aces W" tvg-name="04:00 WNBA W : Washington Mystics W vs Las Vegas Aces W - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's Boulder | Final - World Cup | Innsbruck Men's Boulder | Final" tvg-name="19:30 World Cup | Innsbruck Men's Boulder | Final - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - France vs Japan" tvg-name="14:00 Nations League : France vs Japan - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Netherlands vs Germany" tvg-name="16:30 Nations League : Netherlands vs Germany - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Turkey vs Ukraine" tvg-name="17:30 Nations League : Turkey vs Ukraine - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 2 Serbia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Serbia vs Cuba" tvg-name="20:00 Nations League : Serbia vs Cuba - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Free Practice 1" tvg-name="09:00 MotoGP : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Free Practice 1" tvg-name="09:00 Moto3 : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Free Practice 1" tvg-name="09:00 Moto3 : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Free Practice 1" tvg-name="09:45 Moto2 : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Free Practice 1" tvg-name="09:45 Moto2 : Dutch Grand Prix Free Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Practice" tvg-name="10:00 Formula 3 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Practice" tvg-name="10:00 Formula 3 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Practice" tvg-name="10:00 Formula 3 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Practice" tvg-name="10:00 Formula 3 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Practice" tvg-name="10:00 Formula 3 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Practice" tvg-name="11:05 Formula 2 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Practice" tvg-name="11:05 Formula 2 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Practice" tvg-name="11:05 Formula 2 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Practice" tvg-name="11:05 Formula 2 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Practice" tvg-name="11:05 Formula 2 : MSC Cruises Austrian GP Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Practice" tvg-name="13:10 Moto3 : Dutch Grand Prix Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Practice" tvg-name="13:10 Moto3 : Dutch Grand Prix Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Brazil vs China" tvg-name="23:00 Nations League : Brazil vs China - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Practice 2" tvg-name="13:15 MotoGP : Dutch Grand Prix Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 1" tvg-name="13:30 Formula 1 : MSC Cruises Austrian GP - Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 1" tvg-name="13:30 Formula 1 : MSC Cruises Austrian GP - Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 1" tvg-name="13:30 Formula 1 : MSC Cruises Austrian GP - Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 1" tvg-name="13:30 Formula 1 : MSC Cruises Austrian GP - Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 1" tvg-name="13:30 Formula 1 : MSC Cruises Austrian GP - Practice 1 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Practice" tvg-name="14:00 Moto2 : Dutch Grand Prix Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Practice" tvg-name="14:00 Moto2 : Dutch Grand Prix Practice - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Qualifying" tvg-name="15:00 Formula 3 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Qualifying" tvg-name="15:00 Formula 3 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Qualifying" tvg-name="15:00 Formula 3 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Qualifying" tvg-name="15:00 Formula 3 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Qualifying" tvg-name="15:00 Formula 3 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Qualifying" tvg-name="16:00 Formula 2 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Qualifying" tvg-name="16:00 Formula 2 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Qualifying" tvg-name="16:00 Formula 2 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Qualifying" tvg-name="16:00 Formula 2 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Qualifying" tvg-name="16:00 Formula 2 : MSC Cruises Austrian GP Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 2" tvg-name="17:00 Formula 1 : MSC Cruises Austrian GP - Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 2" tvg-name="17:00 Formula 1 : MSC Cruises Austrian GP - Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium274/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 2" tvg-name="17:00 Formula 1 : MSC Cruises Austrian GP - Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 2" tvg-name="17:00 Formula 1 : MSC Cruises Austrian GP - Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Practice 2" tvg-name="17:00 Formula 1 : MSC Cruises Austrian GP - Practice 2 - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Qualifying" tvg-name="17:00 MotoGP : Dutch Grand Prix Qualifying - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBL - Otago Nuggets vs Tauranga Whai" tvg-name="08:30 NBL : Otago Nuggets vs Tauranga Whai - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 3 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Lithuania W vs Czech Republic W" tvg-name="10:45 FIBA EuroBasket Women 2025 : Lithuania W vs Czech Republic W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Lithuania W vs Czech Republic W" tvg-name="10:45 FIBA EuroBasket Women 2025 : Lithuania W vs Czech Republic W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Lithuania W vs Czech Republic W" tvg-name="10:45 FIBA EuroBasket Women 2025 : Lithuania W vs Czech Republic W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 6 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Turkey W vs Germany W" tvg-name="13:30 FIBA EuroBasket Women 2025 : Turkey W vs Germany W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Ziggo Sport 5 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium383/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 BR
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium82/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 1 : France W vs Spain W" tvg-name="16:30 FIBA EuroBasket Women 2025 : Semi-final 1 : France W vs Spain W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Bay Hawks" tvg-name="17:30 NBL : Wellington Saints vs Bay Hawks - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 2 NZ
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+
+#EXTINF:-1 tvg-id="Basket 3x3 Pro Tour - Brac" tvg-name="19:00 Basket 3x3 Pro Tour: Brac - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Ziggo Sport 5 NL
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium383/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 BR
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium82/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA EuroBasket Women 2025 - Semi-final 2 : Italy W vs Belgium W" tvg-name="19:30 FIBA EuroBasket Women 2025 : Semi-final 2 : Italy W vs Belgium W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportdigital+ DE
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN Eleven 3 Portugal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 7 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="ACB - Valencia Basket vs Real Madrid" tvg-name="21:15 ACB : Valencia Basket vs Real Madrid - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Atlanta Dream W" tvg-name="01:30 WNBA : Minnesota Lynx W vs Atlanta Dream W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings W vs Indiana Fever W" tvg-name="01:30 WNBA : Dallas Wings W vs Indiana Fever W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings W vs Indiana Fever W" tvg-name="01:30 WNBA : Dallas Wings W vs Indiana Fever W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ION USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium325/mono.m3u8
+
+#EXTINF:-1 tvg-id="CEBL Basketball Scarborough Shooting Stars vs Winnipeg Sea Bears - CEBL Basketball Scarborough Shooting Stars vs Winnipeg Sea Bears" tvg-name="02:30 CEBL Basketball Scarborough Shooting Stars vs Winnipeg Sea Bears - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Detroit Amplifiers" tvg-name="03:00 BIG3 Basketball : Miami 305 vs Detroit Amplifiers - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", VICE TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium659/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Phoenix Mercury W" tvg-name="04:00 WNBA : New York Liberty W vs Phoenix Mercury W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ION USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium325/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Chicago Sky W vs Golden State Valkyries W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Connecticut Sun W vs Seattle Storm W" tvg-name="04:00 WNBA : Connecticut Sun W vs Seattle Storm W - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
+
+#EXTINF:-1 tvg-id="Women's Boulder | Final World Cup | Innsbruck - Women's Boulder | Final World Cup | Innsbruck" tvg-name="19:30 Women's Boulder | Final World Cup | Innsbruck - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium878/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Japan" tvg-name="14:00 Nations League : Ukraine vs Japan - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Japan" tvg-name="14:00 Nations League : Ukraine vs Japan - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 1 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium472/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Ukraine vs Japan" tvg-name="14:00 Nations League : Ukraine vs Japan - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport klub 4 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Iran" tvg-name="16:30 Nations League : Argentina vs Iran - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Iran" tvg-name="16:30 Nations League : Argentina vs Iran - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Iran" tvg-name="16:30 Nations League : Argentina vs Iran - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
 
-#EXTINF:-1 tvg-id="Nations League - Canada vs USA" tvg-name="02:30 Nations League : Canada vs USA - 26/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League - Argentina vs Iran" tvg-name="16:30 Nations League : Argentina vs Iran - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Slovenia" tvg-name="18:30 Nations League : Bulgaria vs Slovenia - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 3 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium129/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Slovenia" tvg-name="18:30 Nations League : Bulgaria vs Slovenia - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Slovenia" tvg-name="18:30 Nations League : Bulgaria vs Slovenia - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs Slovenia" tvg-name="18:30 Nations League : Bulgaria vs Slovenia - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 4 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Cuba" tvg-name="20:00 Nations League : Netherlands vs Cuba - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Cuba" tvg-name="20:00 Nations League : Netherlands vs Cuba - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Cuba" tvg-name="20:00 Nations League : Netherlands vs Cuba - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Netherlands vs Cuba" tvg-name="20:00 Nations League : Netherlands vs Cuba - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - China vs Italy" tvg-name="23:00 Nations League : China vs Italy - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - China vs Italy" tvg-name="23:00 Nations League : China vs Italy - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - China vs Italy" tvg-name="23:00 Nations League : China vs Italy - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - China vs Italy" tvg-name="23:00 Nations League : China vs Italy - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Poland" tvg-name="02:30 Nations League : Canada vs Poland - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Poland" tvg-name="02:30 Nations League : Canada vs Poland - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nations League - Canada vs Poland" tvg-name="02:30 Nations League : Canada vs Poland - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="European Silver League - Sweden vs. Austria" tvg-name="17:35 European Silver League : Sweden vs. Austria - 27/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", ORF Sport Plus
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 
