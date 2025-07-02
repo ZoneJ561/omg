@@ -5,3 +5,27 @@
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Iceland vs Finland" tvg-name="17:00 UEFA Women's Euro : Iceland vs Finland - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Iceland vs Finland" tvg-name="17:00 UEFA Women's Euro : Iceland vs Finland - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RSI La 2 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Switzerland vs Norway" tvg-name="20:00 UEFA Women's Euro : Switzerland vs Norway - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport 1 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Women's Euro - Switzerland vs Norway" tvg-name="20:00 UEFA Women's Euro : Switzerland vs Norway - 02/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RSI La 2 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
+
