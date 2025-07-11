@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="20:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RSI La 2 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="20:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
-
 #EXTINF:-1 tvg-id="Ireland Republic - First Division - Bray Wanderers vs Dundalk" tvg-name="19:45 Ireland Republic - First Division : Bray Wanderers vs Dundalk - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
