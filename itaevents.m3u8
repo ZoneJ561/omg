@@ -1,1589 +1,275 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup Final - Chelsea vs PSG" tvg-name="21:00 FIFA Club World Cup Final : Chelsea vs PSG - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TF1 France
+#EXTINF:-1 tvg-id="Brazil - Serie B - Athletic Club vs Avaí" tvg-name="00:00 Brazil - Serie B : Athletic Club vs Avaí - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium469/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup Final - Chelsea vs PSG" tvg-name="21:00 FIFA Club World Cup Final : Chelsea vs PSG - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
-
-#EXTINF:-1 tvg-id="Canadian Premier League - York United vs Valour" tvg-name="00:00 Canadian Premier League : York United vs Valour - 13/07/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-07/1752405315_nba.jpeg" group-title="Soccer", Fox Soccer Plus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
-
-#EXTINF:-1 tvg-id="Canadian Premier League - York United vs Valour" tvg-name="00:00 Canadian Premier League : York United vs Valour - 13/07/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-07/1752405315_nba.jpeg" group-title="Soccer", TSN3
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-
-#EXTINF:-1 tvg-id="Canadian Premier League - York United vs Valour" tvg-name="00:00 Canadian Premier League : York United vs Valour - 13/07/25" tvg-logo="https://guardacalcio.stream/uploads/posts/2025-07/1752405315_nba.jpeg" group-title="Soccer", OneSoccer
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium160/mono.m3u8
-
-#EXTINF:-1 tvg-id="Canadian Premier League - Vancouver FC vs Cavalry" tvg-name="03:00 Canadian Premier League : Vancouver FC vs Cavalry - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ABC NY USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ABC USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC ONE UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV3 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium129/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium454/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium396/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium914/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium915/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium262/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Premium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Premium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 4 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium57/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium231/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium41/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium58/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium232/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium42/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium232/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 PLUS Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+https://windnew.newkso.ru/wind/premium472/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Ladies Doubles Final - 2025 Wimbledon Championships Ladies Doubles Final" tvg-name="13:00 2025 Wimbledon Championships Ladies Doubles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ABC NY USA
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
+https://windnew.newkso.ru/wind/premium396/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ABC USA
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium713/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC ONE UK
+#EXTINF:-1 tvg-id="Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="10:30 Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium714/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="Courtside - Los Cabos-ATP Early Rounds Live - Courtside - Los Cabos-ATP Early Rounds Live" tvg-name="02:00 Courtside - Los Cabos-ATP Early Rounds Live - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
 
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium46/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium129/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium396/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium914/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium915/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium262/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 1 Premium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Sport 2 Premium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium82/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 4 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium57/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium231/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium41/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium58/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium232/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium879/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium42/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium232/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's Singles Final - 2025 Wimbledon Championships Gentlemen's Singles Final" tvg-name="16:30 2025 Wimbledon Championships Gentlemen's Singles Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-
-#EXTINF:-1 tvg-id="Major League Pickleball MLP Mid-Season Tournament - Championships" tvg-name="17:00 Major League Pickleball MLP Mid-Season Tournament: Championships - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MSG USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium765/mono.m3u8
-
-#EXTINF:-1 tvg-id="Major League Pickleball MLP Mid-Season Tournament - Championships" tvg-name="19:00 Major League Pickleball MLP Mid-Season Tournament: Championships - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MSG USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium765/mono.m3u8
-
-#EXTINF:-1 tvg-id="Major League Pickleball MLP Mid-Season Tournament - Championships" tvg-name="20:30 Major League Pickleball MLP Mid-Season Tournament: Championships - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MSG USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium765/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium121/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 BR
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium919/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium472/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN2 Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 2 Romania
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Warm Up" tvg-name="09:30 MotoGP : German Grand Prix Warm Up - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-
-#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Race" tvg-name="10:45 Moto3 : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="Moto3 - German Grand Prix Race" tvg-name="10:45 Moto3 : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-
-#EXTINF:-1 tvg-id="Formula E Berlin E-Prix | Qualifying 2 - Formula E Berlin E-Prix | Qualifying 2" tvg-name="11:20 Formula E Berlin E-Prix | Qualifying 2 - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DF1 DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
-
-#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Race" tvg-name="12:00 Moto2 : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="Moto2 - German Grand Prix Race" tvg-name="12:00 Moto2 : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Deportes
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium557/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium121/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 2 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN2 Argentina
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 BR
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium919/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Max Sport 1 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium472/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 2 Romania
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - German Grand Prix Race" tvg-name="14:00 MotoGP : German Grand Prix Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
-
-#EXTINF:-1 tvg-id="Formula E Berlin E-Prix | Race 2 - Formula E Berlin E-Prix | Race 2" tvg-name="16:05 Formula E Berlin E-Prix | Race 2 - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DF1 DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
-
-#EXTINF:-1 tvg-id="IndyCar - Farm To Finish 275 - Race" tvg-name="19:00 IndyCar: Farm To Finish 275 - Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium60/mono.m3u8
-
-#EXTINF:-1 tvg-id="IndyCar - Farm To Finish 275 - Race" tvg-name="19:00 IndyCar: Farm To Finish 275 - Race - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium274/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia Cup Women - Japan W vs Lebanon W" tvg-name="07:30 Asia Cup Women : Japan W vs Lebanon W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia Cup Women - Australia W vs Philippines W" tvg-name="10:30 Asia Cup Women : Australia W vs Philippines W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 tvg-id="European U20 Basketball Championship - Finland vs Israel" tvg-name="12:09 European U20 Basketball Championship: Finland vs Israel - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", 5 SPORT Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="3x3 Basketball - 3x3 City Tour vs Bielsko-Biała 2025" tvg-name="12:00 3x3 Basketball: 3x3 City Tour vs Bielsko-Biała 2025 - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium128/mono.m3u8
-
-#EXTINF:-1 tvg-id="Asia Cup Women - China W vs Indonesia W" tvg-name="13:30 Asia Cup Women : China W vs Indonesia W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport klub 6 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
-
-#EXTINF:-1 tvg-id="FIBA European Pro-Athlete Championship U20 - Ellada vs Tsechia" tvg-name="17:00 FIBA European Pro-Athlete Championship U20 : Ellada vs Tsechia - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ERT 3 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="19:00 WNBA : Indiana Fever W vs Dallas Wings W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ABC USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium51/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="19:00 WNBA : Indiana Fever W vs Dallas Wings W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ABC NY USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="19:00 WNBA : Indiana Fever W vs Dallas Wings W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="19:00 WNBA : Indiana Fever W vs Dallas Wings W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium161/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="19:00 WNBA : Indiana Fever W vs Dallas Wings W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 4 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Dallas Wings W" tvg-name="19:00 WNBA : Indiana Fever W vs Dallas Wings W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium707/mono.m3u8
-
-#EXTINF:-1 tvg-id="FIBA U19 World Championship - Women - South Korea vs Israel" tvg-name="19:30 FIBA U19 World Championship - Women: South Korea vs Israel - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Star Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-
-#EXTINF:-1 tvg-id="CEBL Basketball - Brampton Honey Badgers vs Scarborough Shooting Stars" tvg-name="20:00 CEBL Basketball : Brampton Honey Badgers vs Scarborough Shooting Stars - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NLSE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium163/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs New York Liberty W" tvg-name="21:00 WNBA : Atlanta Dream W vs New York Liberty W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium162/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs New York Liberty W" tvg-name="21:00 WNBA : Atlanta Dream W vs New York Liberty W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MY9TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium654/mono.m3u8
-
-#EXTINF:-1 tvg-id="BIG3 (3x3) - Miami 305 vs Trilogy" tvg-name="21:00 BIG3 (3x3) : Miami 305 vs Trilogy - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
-
-#EXTINF:-1 tvg-id="BIG3 (3x3) - Miami 305 vs Trilogy" tvg-name="21:00 BIG3 (3x3) : Miami 305 vs Trilogy - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 3 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Phoenix Suns" tvg-name="21:30 NBA Las Vegas Summer League : Atlanta Hawks vs Phoenix Suns - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Phoenix Suns" tvg-name="21:30 NBA Las Vegas Summer League : Atlanta Hawks vs Phoenix Suns - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Phoenix Suns" tvg-name="21:30 NBA Las Vegas Summer League : Atlanta Hawks vs Phoenix Suns - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Star Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
-
-#EXTINF:-1 tvg-id="Canadian Elite Basketball League - Vancouver Bandits vs Montreal Alliance" tvg-name="22:00 Canadian Elite Basketball League : Vancouver Bandits vs Montreal Alliance - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RDS CA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
-
-#EXTINF:-1 tvg-id="Basketball - LECB Vancouver Bandits vs Montreal Alliance" tvg-name="22:00 Basketball : LECB Vancouver Bandits vs Montreal Alliance - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RDS CA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
-
-#EXTINF:-1 tvg-id="BIG3 (3x3) - Triplets vs Power" tvg-name="22:00 BIG3 (3x3) : Triplets vs Power - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Houston Rockets vs Detroit Pistons" tvg-name="22:00 NBA Las Vegas Summer League : Houston Rockets vs Detroit Pistons - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="BIG3 Basketball - Boston Ball Hogs vs Los Angeles Riot" tvg-name="23:00 BIG3 Basketball : Boston Ball Hogs vs Los Angeles Riot - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Boston Celtics vs New York Knicks" tvg-name="23:30 NBA Las Vegas Summer League : Boston Celtics vs New York Knicks - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Boston Celtics vs New York Knicks" tvg-name="23:30 NBA Las Vegas Summer League : Boston Celtics vs New York Knicks - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Connecticut Sun W" tvg-name="00:00 WNBA : Los Angeles Sparks W vs Connecticut Sun W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium982/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Connecticut Sun W" tvg-name="00:00 WNBA : Los Angeles Sparks W vs Connecticut Sun W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Boston USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium754/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Connecticut Sun W" tvg-name="00:00 WNBA : Los Angeles Sparks W vs Connecticut Sun W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium68/mono.m3u8
-
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics vs Seattle Storm" tvg-name="00:00 WNBA : Washington Mystics vs Seattle Storm - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Orlando Magic vs Toronto Raptors" tvg-name="00:00 NBA Las Vegas Summer League : Orlando Magic vs Toronto Raptors - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="BIG3 Basketball - Detroit Amplifiers vs. Houston Rig Hands" tvg-name="00:30 BIG3 Basketball : Detroit Amplifiers vs. Houston Rig Hands - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", VICE TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium659/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Cleveland Cavaliers vs Miami Heat" tvg-name="01:30 NBA Las Vegas Summer League : Cleveland Cavaliers vs Miami Heat - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Cleveland Cavaliers vs Miami Heat" tvg-name="01:30 NBA Las Vegas Summer League : Cleveland Cavaliers vs Miami Heat - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Brooklyn Nets" tvg-name="02:00 NBA Las Vegas Summer League : Washington Wizards vs Brooklyn Nets - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Brooklyn Nets" tvg-name="02:00 NBA Las Vegas Summer League : Washington Wizards vs Brooklyn Nets - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN4 BR
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium85/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Brooklyn Nets" tvg-name="02:00 NBA Las Vegas Summer League : Washington Wizards vs Brooklyn Nets - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Brooklyn Nets" tvg-name="02:00 NBA Las Vegas Summer League : Washington Wizards vs Brooklyn Nets - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", YES Network USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium763/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Washington Wizards vs Brooklyn Nets" tvg-name="02:00 NBA Las Vegas Summer League : Washington Wizards vs Brooklyn Nets - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", 5 SPORT Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="BIG3 Basketball - Boston Live" tvg-name="03:00 BIG3 Basketball : Boston Live - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS Sports Network USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Los Angeles Clippers vs Milwaukee Bucks" tvg-name="03:30 NBA Las Vegas Summer League : Los Angeles Clippers vs Milwaukee Bucks - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Los Angeles Clippers vs Milwaukee Bucks" tvg-name="03:30 NBA Las Vegas Summer League : Los Angeles Clippers vs Milwaukee Bucks - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs Golden State Warriors" tvg-name="04:00 NBA Las Vegas Summer League : Utah Jazz vs Golden State Warriors - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs Golden State Warriors" tvg-name="04:00 NBA Las Vegas Summer League : Utah Jazz vs Golden State Warriors - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBC Sports Bay Area
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium753/mono.m3u8
-
-#EXTINF:-1 tvg-id="IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final - IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final" tvg-name="10:00 IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="IFSC World Cup Chamonix | Difficulty (M/F) – Final - IFSC World Cup Chamonix | Difficulty (M/F) – Final" tvg-name="20:25 IFSC World Cup Chamonix | Difficulty (M/F) – Final - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Italy
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium878/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs Poland W" tvg-name="07:30 Nations League Women : Bulgaria W vs Poland W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs Poland W" tvg-name="07:30 Nations League Women : Bulgaria W vs Poland W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs Poland W" tvg-name="07:30 Nations League Women : Bulgaria W vs Poland W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Bulgaria W vs Poland W" tvg-name="07:30 Nations League Women : Bulgaria W vs Poland W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Japan W vs Brazil W" tvg-name="12:20 Nations League Women : Japan W vs Brazil W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Japan W vs Brazil W" tvg-name="12:20 Nations League Women : Japan W vs Brazil W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Japan W vs Brazil W" tvg-name="12:20 Nations League Women : Japan W vs Brazil W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Japan W vs Brazil W" tvg-name="12:20 Nations League Women : Japan W vs Brazil W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W vs Belgium W" tvg-name="12:30 Nations League Women : Czech Republic W vs Belgium W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CT 2 Czech
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W vs Belgium W" tvg-name="12:30 Nations League Women : Czech Republic W vs Belgium W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic W vs Belgium W" tvg-name="12:30 Nations League Women : Czech Republic W vs Belgium W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 4 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands W vs Italy W" tvg-name="16:00 Nations League Women : Netherlands W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands W vs Italy W" tvg-name="16:00 Nations League Women : Netherlands W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands W vs Italy W" tvg-name="16:00 Nations League Women : Netherlands W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 3 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Netherlands W vs Italy W" tvg-name="16:00 Nations League Women : Netherlands W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Germany W vs Dominican Republic W" tvg-name="18:30 Nations League Women : Germany W vs Dominican Republic W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Germany W vs Dominican Republic W" tvg-name="18:30 Nations League Women : Germany W vs Dominican Republic W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Serbia W vs Turkey W" tvg-name="20:00 Nations League Women : Serbia W vs Turkey W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Serbia W vs Turkey W" tvg-name="20:00 Nations League Women : Serbia W vs Turkey W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Serbia W vs Turkey W" tvg-name="20:00 Nations League Women : Serbia W vs Turkey W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 2 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Serbia W vs Turkey W" tvg-name="20:00 Nations League Women : Serbia W vs Turkey W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Serbia W vs Turkey W" tvg-name="20:00 Nations League Women : Serbia W vs Turkey W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Serbia W vs Turkey W" tvg-name="20:00 Nations League Women : Serbia W vs Turkey W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - Thailand W vs Canada W" tvg-name="22:00 Nations League Women : Thailand W vs Canada W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - China W vs USA W" tvg-name="02:00 Nations League Women : China W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", BTN USA
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium397/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - China W vs USA W" tvg-name="02:00 Nations League Women : China W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - China W vs USA W" tvg-name="02:00 Nations League Women : China W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - China W vs USA W" tvg-name="02:00 Nations League Women : China W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 3 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - China W vs USA W" tvg-name="02:00 Nations League Women : China W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 tvg-id="Nations League Women - China W vs USA W" tvg-name="02:00 Nations League Women : China W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Championship Women - Australia W vs Italy W" tvg-name="11:30 World Championship Women : Australia W vs Italy W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTINF:-1 tvg-id="Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero - Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero" tvg-name="17:00 Primiero Dolomiti Marathon 2025 - San Martino di Castrozza - Primiero - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Athletics", RAI Sport 1 Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs USA W" tvg-name="14:45 World Championship Women : Netherlands W vs USA W - 13/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTINF:-1 tvg-id="Asia Cup Women - New Zealand W vs South Korea W" tvg-name="07:30 Asia Cup Women : New Zealand W vs South Korea W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia Cup Women - Lebanon W vs Australia W" tvg-name="10:30 Asia Cup Women : Lebanon W vs Australia W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="Asia Cup Women - Philippines W vs Japan W" tvg-name="13:30 Asia Cup Women : Philippines W vs Japan W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket U20 - Poland U20 vs Israel U20" tvg-name="14:20 EuroBasket U20 : Poland U20 vs Israel U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket U20 - Greece U20 vs Romania U20" tvg-name="17:00 EuroBasket U20 : Greece U20 vs Romania U20 - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ERT 3 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Space City Home Network
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium921/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Atlanta Hawks vs Houston Rockets" tvg-name="22:30 NBA Las Vegas Summer League : Atlanta Hawks vs Houston Rockets - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Chicago Bulls" tvg-name="00:00 NBA Las Vegas Summer League : Indiana Pacers vs Chicago Bulls - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPNU USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Chicago Bulls" tvg-name="00:00 NBA Las Vegas Summer League : Indiana Pacers vs Chicago Bulls - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Indiana
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium894/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Charlotte Hornets vs Dallas Mavericks" tvg-name="00:30 NBA Las Vegas Summer League : Charlotte Hornets vs Dallas Mavericks - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Chicago Sky W vs Minnesota Lynx W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Chicago Sky W vs Minnesota Lynx W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPNU USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN1
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Miami Heat vs Boston Celtics" tvg-name="02:00 NBA Las Vegas Summer League : Miami Heat vs Boston Celtics - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Sun
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium905/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Utah Jazz vs San Antonio Spurs" tvg-name="02:30 NBA Las Vegas Summer League : Utah Jazz vs San Antonio Spurs - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPNU USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS California
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium755/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Phoenix Suns" tvg-name="04:00 NBA Las Vegas Summer League : Sacramento Kings vs Phoenix Suns - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN4
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Phoenix Mercury W vs Golden State Valkyries W - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium404/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet One
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network SoCal
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium902/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - LA Clippers vs Los Angeles Lakers" tvg-name="04:30 NBA Las Vegas Summer League : LA Clippers vs Los Angeles Lakers - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Live Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship - Australia vs Spain" tvg-name="10:00 World Championship : Australia vs Spain - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship - Croatia vs Montenegro" tvg-name="11:30 World Championship : Croatia vs Montenegro - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship - Italy vs Serbia" tvg-name="14:45 World Championship : Italy vs Serbia - 14/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water polo", Rai Sport 1 Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
