@@ -2580,6 +2580,12 @@ https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="Sky Sport 9 NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sky Sport 9 NZ
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sky Sport Select NZ" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sky Sport Select NZ
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2802,6 +2808,12 @@ https://zekonew.newkso.ru/zeko/premium424/mono.m3u8
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium368/mono.m3u8
 
+#EXTINF:-1 tvg-id="unknown" tvg-name="SuperSport MaXimo 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
+
 #EXTINF:-1 tvg-id="unknown" tvg-name="Sporting TV Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Sporting TV Portugal
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2993,6 +3005,18 @@ https://zekonew.newkso.ru/zeko/premium871/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 https://windnew.newkso.ru/wind/premium872/mono.m3u8
+
+#EXTINF:-1 tvg-id="skysport3.it" tvg-name="Sky Calcio 3  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-3-alt-de.png" group-title="Sport", Sky Calcio 3  
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://windnew.newkso.ru/wind/premium873/mono.m3u8
+
+#EXTINF:-1 tvg-id="skysport4.it" tvg-name="Sky Calcio 4  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-4-alt-de.png" group-title="Sport", Sky Calcio 4  
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://windnew.newkso.ru/wind/premium874/mono.m3u8
 
 #EXTINF:-1 tvg-id="skysport6.it" tvg-name="Sky Calcio 6  " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-select-6-alt-de.png" group-title="Sport", Sky Calcio 6  
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
@@ -4091,6 +4115,12 @@ https://nfsnew.newkso.ru/nfs/premium790/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 https://windnew.newkso.ru/wind/premium911/mono.m3u8
+
+#EXTINF:-1 tvg-id="unknown" tvg-name="Cytavision Sports 2 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cytavision Sports 2 Cyprus
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+https://windnew.newkso.ru/wind/premium912/mono.m3u8
 
 #EXTINF:-1 tvg-id="unknown" tvg-name="Cytavision Sports 3 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddlive.png" group-title="Undefined", Cytavision Sports 3 Cyprus
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
