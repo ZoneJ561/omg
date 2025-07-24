@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Club Friendly - Galatasaray vs Cagliari" tvg-name="18:30 Club Friendly : Galatasaray vs Cagliari - 23/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SDAZN Italia
+#EXTINF:-1 tvg-id="Club Friendly - Ajax vs Celtic" tvg-name="19:30 Club Friendly : Ajax vs Celtic - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
+https://windnew.newkso.ru/wind/premium870/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA W. EURO - Germany vs Spain" tvg-name="20:00 UEFA W. EURO : Germany vs Spain - 23/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI Sport 1 IT
+#EXTINF:-1 tvg-id="World Championship - Final" tvg-name="12:30 World Championship: Final - 24/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", RAI 2 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
 
