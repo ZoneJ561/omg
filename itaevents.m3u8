@@ -635,6 +635,12 @@ https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium580/mono.m3u8
 
+#EXTINF:-1 tvg-id="Egypt - Premier League - ENPPI vs Wadi Degla" tvg-name="17:00 Egypt - Premier League : ENPPI vs Wadi Degla - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports Egypt
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium188/mono.m3u8
+
 #EXTINF:-1 tvg-id="Kazakhstan Premier League - Turan Turkistan vs Kaisar" tvg-name="17:00 Kazakhstan Premier League : Turan Turkistan vs Kaisar - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Qazsport
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1246,6 +1252,12 @@ https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
+
+#EXTINF:-1 tvg-id="Egypt - Premier League - Zamalek vs Al Mokawloon" tvg-name="20:00 Egypt - Premier League : Zamalek vs Al Mokawloon - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ON Time Sports Egypt
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium188/mono.m3u8
 
 #EXTINF:-1 tvg-id="DFL-Supercup - Stuttgart vs Bayern München" tvg-name="20:30 DFL-Supercup : Stuttgart vs Bayern München - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -2170,6 +2182,12 @@ https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium201/mono.m3u8
+
+#EXTINF:-1 tvg-id="Turkish Airlines Supercup third-place match - TBD – TBD" tvg-name="17:45 Turkish Airlines Supercup third-place match : TBD – TBD - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium190/mono.m3u8
 
 #EXTINF:-1 tvg-id="FIBA WC, EU Pre-Qualifiers - Romania vs Hungary" tvg-name="18:00 FIBA WC, EU Pre-Qualifiers : Romania vs Hungary - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sports Hungary
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
