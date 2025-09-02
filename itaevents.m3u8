@@ -293,6 +293,12 @@ https://windnew.newkso.ru/wind/premium879/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium232/mono.m3u8
 
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
+
 #EXTINF:-1 tvg-id="US Open Round 1 | Day 10 - US Open Round 1 | Day 10" tvg-name="16:00 US Open Round 1 | Day 10 - 02/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 8 Arabic
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
