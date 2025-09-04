@@ -1,751 +1,787 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Club Friendly Games - SG Sonnenhof Großaspach vs VfB Stuttgart" tvg-name="18:30 Club Friendly Games : SG Sonnenhof Großaspach vs VfB Stuttgart - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="World Cup Qualifying - Kazakhstan vs Wales" tvg-name="16:00 World Cup Qualifying : Kazakhstan vs Wales - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium558/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+#EXTINF:-1 tvg-id="World Cup Qualifying - Georgia vs Turkey" tvg-name="18:00 World Cup Qualifying : Georgia vs Turkey - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Cup Qualifying - Netherlands vs Poland" tvg-name="20:45 World Cup Qualifying : Netherlands vs Poland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium46/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium44/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Main Event
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Austria 1
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Austria 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium436/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium111/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium114/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium115/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports 1 DE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports 1 DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium240/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports 2 DE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports 2 DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium241/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium884/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium556/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Arena Italy
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Arena Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport UNO Italy
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport UNO Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport MAX Italy
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport MAX Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar+
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium437/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium839/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF zwei
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium12/mono.m3u8
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium396/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportv3 Brazil
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportv3 Brazil
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium80/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brasil
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brasil
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium82/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium150/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN Deportes
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN Deportes
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium375/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium612/mono.m3u8
+
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium57/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium524/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium231/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium878/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium58/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium525/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium232/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium879/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium232/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium97/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 8 Arabic
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 8 Arabic
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
 
-#EXTINF:-1 tvg-id="US Open Round 1 | Day 11 - US Open Round 1 | Day 11" tvg-name="16:00 US Open Round 1 | Day 11 - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
+#EXTINF:-1 tvg-id="US Open Round 1 | Day 12 - US Open Round 1 | Day 12" tvg-name="16:00 US Open Round 1 | Day 12 - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
 
-#EXTINF:-1 tvg-id="Courtside - Live Seville-ATP Early Rounds Live - Courtside - Live Seville-ATP Early Rounds Live" tvg-name="17:00 Courtside - Live Seville-ATP Early Rounds Live - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel USA
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 316
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium40/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium17/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 4 Max France
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 4 Max France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium466/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Montenegro vs Great Britain" tvg-name="12:30 EuroBasket : Montenegro vs Great Britain - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 316
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium5/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTP 2 Portugal
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium720/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Estonia vs Portugal" tvg-name="13:45 EuroBasket : Estonia vs Portugal - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 317
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium6/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", svt1 Sweden
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium10/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 4 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 3 Premium Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium466/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub HD Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Lithuania vs Sweden" tvg-name="15:30 EuroBasket : Lithuania vs Sweden - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 316
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 5 Max France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport Bulgaria
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium468/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA 9
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Czech Republic vs Latvia" tvg-name="17:00 EuroBasket : Czech Republic vs Latvia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 318
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium8/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTL DE
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium740/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 2 France
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium117/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium466/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Finland vs Germany" tvg-name="19:30 EuroBasket : Finland vs Germany - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="EuroBasket - Bosnia & Herzegovina vs Georgia" tvg-name="14:00 EuroBasket : Bosnia & Herzegovina vs Georgia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 316
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 317
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium9/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium18/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", svt 24 Sweden
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium11/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Teledeporte Spain
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", RTVS Sport Slovakia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium889/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium128/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", M4 Sport Hungary
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium265/mono.m3u8
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Ziggo Sport 1 NL
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium128/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport Bulgaria
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium465/mono.m3u8
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN3 BR
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub HD Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium83/mono.m3u8
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 3 Croatia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
-
-#EXTINF:-1 tvg-id="EuroBasket - Turkey vs Serbia" tvg-name="20:15 EuroBasket : Turkey vs Serbia - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTINF:-1 tvg-id="EuroBasket - France vs Iceland" tvg-name="14:00 EuroBasket : France vs Iceland - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 tvg-id="WNBA - Atlanta Dream W vs Los Angeles Sparks W" tvg-name="01:30 WNBA : Atlanta Dream W vs Los Angeles Sparks W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Spectrum SportsNet USA
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 317
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium982/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Connecticut Sun W" tvg-name="02:00 WNBA : Chicago Sky W vs Connecticut Sun W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN3
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport TV1 Slovenia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium113/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Connecticut Sun W" tvg-name="02:00 WNBA : Chicago Sky W vs Connecticut Sun W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Boston
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium754/mono.m3u8
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
 
-#EXTINF:-1 tvg-id="Germany Bundesliga - SC Magdeburg vs. ThSV Eisenach" tvg-name="20:00 Germany Bundesliga : SC Magdeburg vs. ThSV Eisenach - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", TV3 Sport Denmark HD
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium809/mono.m3u8
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
 
-#EXTINF:-1 tvg-id="Germany Bundesliga - SC Magdeburg vs. ThSV Eisenach" tvg-name="20:00 Germany Bundesliga : SC Magdeburg vs. ThSV Eisenach - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Premium 3 Serbia
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 4 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Israel vs Slovenia" tvg-name="17:00 EuroBasket : Israel vs Slovenia - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 316
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai 2 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 4 Max France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Italy vs Cyprus" tvg-name="17:15 EuroBasket : Italy vs Cyprus - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 316
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Teledeporte Spain (TDP)
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TRT Spor Turkey
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium889/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 1 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 2 Premium Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", svt 24 Sweden
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium82/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA 9
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Spain vs Greece" tvg-name="20:30 EuroBasket : Spain vs Greece - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 317
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", VOO Sport World 2 Belgium
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVP Sport Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium128/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN Sports 4 Max France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 2 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", beIN SPORTS MENA 8
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub HD Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroBasket - Poland vs Belgium" tvg-name="20:30 EuroBasket : Poland vs Belgium - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Plus Israel
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury vs Washington Mystics" tvg-name="01:30 WNBA : Phoenix Mercury vs Washington Mystics - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Monumental Sports Network
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium778/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Dallas Wings vs Golden State Valkyries" tvg-name="04:00 WNBA : Dallas Wings vs Golden State Valkyries - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Las Vegas Aces" tvg-name="04:00 WNBA : Minnesota Lynx vs Las Vegas Aces - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium16/mono.m3u8
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Las Vegas Aces" tvg-name="04:00 WNBA : Minnesota Lynx vs Las Vegas Aces - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium898/mono.m3u8
+
+#EXTINF:-1 tvg-id="Handball-Bundesliga - VfL Gummersbach vs. MT Melsungen" tvg-name="19:00 Handball-Bundesliga : VfL Gummersbach vs. MT Melsungen - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Arena Premium 3 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 
-#EXTINF:-1 tvg-id="Germany Bundesliga - SC Magdeburg vs. ThSV Eisenach" tvg-name="20:00 Germany Bundesliga : SC Magdeburg vs. ThSV Eisenach - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Handball-Bundesliga - VfL Gummersbach vs. MT Melsungen" tvg-name="19:00 Handball-Bundesliga : VfL Gummersbach vs. MT Melsungen - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 1 Hungary
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
+https://nfsnew.newkso.ru/nfs/premium30/mono.m3u8
 
-#EXTINF:-1 tvg-id="Germany Bundesliga - SC Magdeburg vs. ThSV Eisenach" tvg-name="20:00 Germany Bundesliga : SC Magdeburg vs. ThSV Eisenach - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Sport 2 Israel
+#EXTINF:-1 tvg-id="Handball-Bundesliga - VfL Gummersbach vs. MT Melsungen" tvg-name="19:00 Handball-Bundesliga : VfL Gummersbach vs. MT Melsungen - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Nova Sport 1 Czech
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
+https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs Japan W" tvg-name="12:00 World Championship Women : Netherlands W vs Japan W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="World Championship Women - Brazil W vs France W" tvg-name="11:45 World Championship Women : Brazil W vs France W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship Women - Brazil W vs France W" tvg-name="11:45 World Championship Women : Brazil W vs France W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs Japan W" tvg-name="12:00 World Championship Women : Netherlands W vs Japan W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs Japan W" tvg-name="12:00 World Championship Women : Netherlands W vs Japan W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs Japan W" tvg-name="12:00 World Championship Women : Netherlands W vs Japan W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="World Championship Women - Brazil W vs France W" tvg-name="11:45 World Championship Women : Brazil W vs France W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium473/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs Japan W" tvg-name="12:00 World Championship Women : Netherlands W vs Japan W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="World Championship Women - Brazil W vs France W" tvg-name="11:45 World Championship Women : Brazil W vs France W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship Women - Brazil W vs France W" tvg-name="11:45 World Championship Women : Brazil W vs France W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Netherlands W vs Japan W" tvg-name="12:00 World Championship Women : Netherlands W vs Japan W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 4 Israel
+#EXTINF:-1 tvg-id="World Championship Women - Brazil W vs France W" tvg-name="11:45 World Championship Women : Brazil W vs France W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 4 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Italy W vs Poland W" tvg-name="15:30 World Championship Women : Italy W vs Poland W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="World Championship Women - USA W vs Turkey W" tvg-name="15:30 World Championship Women : USA W vs Turkey W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship Women - USA W vs Turkey W" tvg-name="15:30 World Championship Women : USA W vs Turkey W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Italy W vs Poland W" tvg-name="15:30 World Championship Women : Italy W vs Poland W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Zona DAZN IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Championship Women - Italy W vs Poland W" tvg-name="15:30 World Championship Women : Italy W vs Poland W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Championship Women - Italy W vs Poland W" tvg-name="15:30 World Championship Women : Italy W vs Poland W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
+#EXTINF:-1 tvg-id="World Championship Women - USA W vs Turkey W" tvg-name="15:30 World Championship Women : USA W vs Turkey W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", MAX Sport 2 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium473/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Italy W vs Poland W" tvg-name="15:30 World Championship Women : Italy W vs Poland W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
+#EXTINF:-1 tvg-id="World Championship Women - USA W vs Turkey W" tvg-name="15:30 World Championship Women : USA W vs Turkey W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 3 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="World Championship Women - USA W vs Turkey W" tvg-name="15:30 World Championship Women : USA W vs Turkey W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub 3 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium103/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Championship Women - Italy W vs Poland W" tvg-name="15:30 World Championship Women : Italy W vs Poland W - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 4 Israel
+#EXTINF:-1 tvg-id="World Championship Women - USA W vs Turkey W" tvg-name="15:30 World Championship Women : USA W vs Turkey W - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport 4 Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
 
-#EXTINF:-1 tvg-id="Elite16 - Hamburg, Germany - 3rd Place Playoff" tvg-name="17:10 Elite16: Hamburg, Germany - 3rd Place Playoff - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Men's volleyball friendly match - Poland vs Brazil" tvg-name="18:30 Men's volleyball friendly match : Poland vs Brazil - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 tvg-id="Elite16 - Hamburg, Germany - Men's Final" tvg-name="19:10 Elite16: Hamburg, Germany - Men's Final - 03/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Women's College Volleyball - Texas A&M at Utah" tvg-name="02:00 Women's College Volleyball : Texas A&M at Utah - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", ESPN2 USA
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium79/mono.m3u8
+https://windnew.newkso.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 tvg-id="Women's College Volleyball Washington vs SMU - Women's College Volleyball Washington vs SMU" tvg-name="02:00 Women's College Volleyball Washington vs SMU - 04/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", ACC Network USA
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8
 
