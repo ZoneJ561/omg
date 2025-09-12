@@ -4115,6 +4115,162 @@
                 ]
             }
         ],
+        "Tennis DAVIS CUP</span>": [
+            {
+                "time": "05:00",
+                "event": "DAVIS CUP : Japan vs Germany",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "DAVIS CUP : Netherlands vs Argentina",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "13:00",
+                "event": "DAVIS CUP : Hungary vs Austria",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "DAVIS CUP : Croatia vs France",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "DAVIS CUP : USA vs Czech Republic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "DAVIS CUP : Australia vs Belgium",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - GUADALAJARA</span>": [
+            {
+                "time": "18:00",
+                "event": "WTA - GUADALAJARA : Ostapenko J. vs Stakusic M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WTA - GUADALAJARA : Jacquemot E. vs Maria T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "WTA - GUADALAJARA : Jovic I. vs Jimenez Kasintseva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "WTA - GUADALAJARA : Ostapenko or Stakusic vs Arango E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "01:30",
+                "event": "WTA - GUADALAJARA : Frech M. vs Bartunkova N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - SAO PAOLO</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA - SAO PAOLO : Tjen J. vs Eala A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "WTA - SAO PAOLO : Jones F. vs Sierra S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - SAO PAOLO : Haddad Maia B. vs Zarazua R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "19:30",
+                "event": "WTA - SAO PAOLO : Rakotomanga Rajaonah T. vs Udvardy P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "05:00",
