@@ -1271,6 +1271,12 @@ https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
+#EXTINF:-1 tvg-id="Algeria Ligue 1 Algérie - 8:30pm - CR Belouizdad vs JS Saoura" tvg-name="16:30 Algeria Ligue 1 Algérie : 8:30pm - CR Belouizdad vs JS Saoura - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV 6 Algeria
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium218/mono.m3u8
+
 #EXTINF:-1 tvg-id="France - Ligue 1 - Nice vs Nantes" tvg-name="17:00 France - Ligue 1 : Nice vs Nantes - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
