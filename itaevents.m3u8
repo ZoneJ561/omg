@@ -869,6 +869,12 @@ https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Fulham vs Leeds United" tvg-name="16:00 England - Premier League : Fulham vs Leeds United - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Viaplay Sport News
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium208/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Fulham vs Leeds United" tvg-name="16:00 England - Premier League : Fulham vs Leeds United - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2866,6 +2872,12 @@ https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium129/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIVB World Championship - Slovenia vs Chile" tvg-name="15:00 FIVB World Championship : Slovenia vs Chile - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport Premium 5 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium239/mono.m3u8
 
 #EXTINF:-1 tvg-id="FIVB World Championship - Poland vs Romania" tvg-name="15:30 FIVB World Championship : Poland vs Romania - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
