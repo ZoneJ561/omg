@@ -365,6 +365,12 @@ https://windnew.newkso.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
 
+#EXTINF:-1 tvg-id="Spain - La Liga - Espanyol vs Mallorca" tvg-name="21:00 Spain - La Liga : Espanyol vs Mallorca - 15/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Supersport Grandstand
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
+
 #EXTINF:-1 tvg-id="Friendly International - Portugal Legends vs World Legends" tvg-name="21:00 Friendly International : Portugal Legends vs World Legends - 15/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DF1 DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
