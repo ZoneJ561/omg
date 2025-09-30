@@ -1289,6 +1289,12 @@ https://zekonew.newkso.ru/zeko/premium900/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium902/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network Southeast
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium904/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 1 Bulgaria
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
