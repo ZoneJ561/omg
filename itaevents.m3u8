@@ -65,12 +65,6 @@ https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bundesliga 2 - Fortuna Düsseldorf vs Nürnberg" tvg-name="18:30 Bundesliga 2 : Fortuna Düsseldorf vs Nürnberg - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN Select
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bundesliga 2 - Fortuna Düsseldorf vs Nürnberg" tvg-name="18:30 Bundesliga 2 : Fortuna Düsseldorf vs Nürnberg - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Top Event DE
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -143,11 +137,23 @@ https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium377/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Pianese vs Livorno" tvg-name="20:30 Italy - Serie C : Pianese vs Livorno - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Rimini vs Arezzo" tvg-name="20:30 Italy - Serie C : Rimini vs Arezzo - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 Italia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Latina vs Benevento" tvg-name="20:30 Italy - Serie C : Latina vs Benevento - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Hoffenheim vs Köln" tvg-name="20:30 Bundesliga : Hoffenheim vs Köln - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Bundesliga 1
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -226,6 +232,12 @@ https://ddy6new.newkso.ru/ddy6/premium78/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bundesliga - Hoffenheim vs Köln" tvg-name="20:30 Bundesliga : Hoffenheim vs Köln - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", V Sport Football
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Hoffenheim vs Köln" tvg-name="20:30 Bundesliga : Hoffenheim vs Köln - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sportklub 2 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -382,12 +394,6 @@ https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie A - Hellas Verona vs Sassuolo" tvg-name="20:45 Italy - Serie A : Hellas Verona vs Sassuolo - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Cosmote Sport 2 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Hellas Verona vs Sassuolo" tvg-name="20:45 Italy - Serie A : Hellas Verona vs Sassuolo - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV4 Fotball
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -725,6 +731,12 @@ https://windnew.newkso.ru/wind/premium884/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
 
+#EXTINF:-1 tvg-id="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 - 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3" tvg-name="06:30 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://zekonew.newkso.ru/zeko/premium701/mono.m3u8
+
 #EXTINF:-1 tvg-id="2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 - 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3" tvg-name="06:30 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -844,12 +856,6 @@ https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8
-
-#EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Indonesia Free Practice" tvg-name="03:00 MotoGP : Greek Grand Prix of Indonesia Free Practice - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
 
 #EXTINF:-1 tvg-id="MotoGP - Greek Grand Prix of Indonesia Free Practice" tvg-name="03:00 MotoGP : Greek Grand Prix of Indonesia Free Practice - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1157,6 +1163,12 @@ https://dokko1new.newkso.ru/dokko1/premium156/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium157/mono.m3u8
 
+#EXTINF:-1 tvg-id="Serbia AdmiralBet KLS - KK Tamiš vs KK Dynamic Belgrade" tvg-name="19:00 Serbia AdmiralBet KLS : KK Tamiš vs KK Dynamic Belgrade - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 9 Serbia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium944/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - BC Zalgiris Kaunas vs. Fenerbahce Istanbul" tvg-name="19:00 Euroleague : BC Zalgiris Kaunas vs. Fenerbahce Istanbul - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 318
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1241,6 +1253,12 @@ https://ddy6new.newkso.ru/ddy6/premium101/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium146/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Hapoel Tel-Aviv" tvg-name="19:30 Euroleague : Anadolu Efes SK vs. Hapoel Tel-Aviv - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 308
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium20/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Hapoel Tel-Aviv" tvg-name="19:30 Euroleague : Anadolu Efes SK vs. Hapoel Tel-Aviv - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 6 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1265,6 +1283,12 @@ https://windnew.newkso.ru/wind/premium472/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium144/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - AS Monaco vs. Dubai Basketball" tvg-name="19:30 Euroleague : AS Monaco vs. Dubai Basketball - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 307
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium21/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - AS Monaco vs. Dubai Basketball" tvg-name="19:30 Euroleague : AS Monaco vs. Dubai Basketball - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 5 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1288,6 +1312,18 @@ https://dokko1new.newkso.ru/dokko1/premium159/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Konferenz" tvg-name="19:30 Euroleague : Konferenz - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 306
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - ASVEL Lyon Villeurbanne vs. Baskonia Vitoria-Gasteiz" tvg-name="20:00 Euroleague : ASVEL Lyon Villeurbanne vs. Baskonia Vitoria-Gasteiz - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 309
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium22/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - ASVEL Lyon Villeurbanne vs. Baskonia Vitoria-Gasteiz" tvg-name="20:00 Euroleague : ASVEL Lyon Villeurbanne vs. Baskonia Vitoria-Gasteiz - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 3 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1319,6 +1355,12 @@ https://windnew.newkso.ru/wind/premium429/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium47/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. FC Barcelona" tvg-name="20:15 Euroleague : Panathinaikos BC vs. FC Barcelona - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 310
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium23/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. FC Barcelona" tvg-name="20:15 Euroleague : Panathinaikos BC vs. FC Barcelona - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 2 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1330,12 +1372,6 @@ https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
-
-#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. FC Barcelona" tvg-name="20:15 Euroleague : Panathinaikos BC vs. FC Barcelona - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Premium 2 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium28/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. FC Barcelona" tvg-name="20:15 Euroleague : Panathinaikos BC vs. FC Barcelona - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 1 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1367,6 +1403,12 @@ https://windnew.newkso.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium147/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - Valencia vs Virtus Bologna - Euroleague - Valencia vs Virtus Bologna" tvg-name="20:30 Euroleague - Valencia vs Virtus Bologna - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 311
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium24/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - Valencia vs Virtus Bologna - Euroleague - Valencia vs Virtus Bologna" tvg-name="20:30 Euroleague - Valencia vs Virtus Bologna - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1396,6 +1438,12 @@ https://windnew.newkso.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - Maccabi Tel Aviv vs Paris" tvg-name="21:30 Euroleague : Maccabi Tel Aviv vs Paris - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 312
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 
 #EXTINF:-1 tvg-id="Euroleague - Maccabi Tel Aviv vs Paris" tvg-name="21:30 Euroleague : Maccabi Tel Aviv vs Paris - 03/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 4 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/

@@ -17,6 +17,18 @@ https://ddy6new.newkso.ru/ddy6/premium172/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium173/mono.m3u8
 
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Treaty United vs Longford Town" tvg-name="19:45 Ireland Republic - First Division : Treaty United vs Longford Town - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer - Ireland Republic", LOITV
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium174/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ireland Republic - First Division - Wexford vs UCD" tvg-name="19:45 Ireland Republic - First Division : Wexford vs UCD - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer - Ireland Republic", LOITV
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium175/mono.m3u8
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs St Patrick's" tvg-name="19:45 Ireland Republic - Premier Division : Bohemians vs St Patrick's - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer - Ireland Republic", LOITV
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -47,11 +59,23 @@ https://ddy6new.newkso.ru/ddy6/premium179/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium180/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Pianese vs Livorno" tvg-name="19:30 Italy - Serie C : Pianese vs Livorno - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium77/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Rimini vs Arezzo" tvg-name="19:30 Italy - Serie C : Rimini vs Arezzo - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 Italia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium86/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Latina vs Benevento" tvg-name="19:30 Italy - Serie C : Latina vs Benevento - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Hoffenheim vs Köln" tvg-name="19:30 Bundesliga : Hoffenheim vs Köln - 03/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
