@@ -47,6 +47,30 @@ https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium182/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Pro Vercelli vs Dolomiti Bellunesi" tvg-name="13:30 Italy - Serie C : Pro Vercelli vs Dolomiti Bellunesi - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium166/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Casertana vs Virtus Casarano" tvg-name="13:30 Italy - Serie C : Casertana vs Virtus Casarano - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium164/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Catania vs Siracusa" tvg-name="13:30 Italy - Serie C : Catania vs Siracusa - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium163/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Trapani 1905 vs Giugliano" tvg-name="13:30 Italy - Serie C : Trapani 1905 vs Giugliano - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium167/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Salernitana vs Cavese" tvg-name="13:30 Italy - Serie C : Salernitana vs Cavese - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 251 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -58,6 +82,12 @@ https://ddy6new.newkso.ru/ddy6/premium165/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs Crystal Palace" tvg-name="14:00 England - Premier League : Everton vs Crystal Palace - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 259 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium162/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Newcastle United vs Nottingham Forest" tvg-name="14:00 England - Premier League : Newcastle United vs Nottingham Forest - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -107,11 +137,41 @@ https://nfsnew.newkso.ru/nfs/premium2/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium161/mono.m3u8
 
+#EXTINF:-1 tvg-id="Bundesliga - Hamburger SV vs Mainz 05" tvg-name="16:30 Bundesliga : Hamburger SV vs Mainz 05 - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 259 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium162/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Alcione vs Vicenza" tvg-name="16:30 Italy - Serie C : Alcione vs Vicenza - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium163/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Forlì vs Nuova Monterosi" tvg-name="16:30 Italy - Serie C : Forlì vs Nuova Monterosi - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 256 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium182/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Athletic Carpi vs Perugia" tvg-name="16:30 Italy - Serie C : Athletic Carpi vs Perugia - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium167/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Team Altamura vs Potenza Calcio" tvg-name="16:30 Italy - Serie C : Team Altamura vs Potenza Calcio - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium164/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Sorrento vs Monopoli" tvg-name="16:30 Italy - Serie C : Sorrento vs Monopoli - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium166/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie A - Napoli vs Genoa" tvg-name="17:00 Italy - Serie A : Napoli vs Genoa - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 251 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -137,17 +197,41 @@ https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Union ArzignanoChiampo vs AlbinoLeffe" tvg-name="19:30 Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium166/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Union ArzignanoChiampo vs AlbinoLeffe" tvg-name="19:30 Italy - Serie C : Union ArzignanoChiampo vs AlbinoLeffe - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", RAI Sport 1 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Gubbio vs Pontedera" tvg-name="19:30 Italy - Serie C : Gubbio vs Pontedera - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium164/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Inter II vs Ospitaletto" tvg-name="19:30 Italy - Serie C : Inter II vs Ospitaletto - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium163/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Inter II vs Ospitaletto" tvg-name="19:30 Italy - Serie C : Inter II vs Ospitaletto - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Audace Cerignola vs Cosenza" tvg-name="19:30 Italy - Serie C : Audace Cerignola vs Cosenza - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium167/mono.m3u8
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - Lille vs PSG" tvg-name="19:45 France - Ligue 1 : Lille vs PSG - 05/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Uno IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
