@@ -149,6 +149,12 @@ https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
+#EXTINF:-1 tvg-id="Slovenian league - Podčetrtek vs Šenčur" tvg-name="17:30 Slovenian league : Podčetrtek vs Šenčur - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 4 Crotaia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium104/mono.m3u8
+
 #EXTINF:-1 tvg-id="Poland, PLK - Anwil Wroclawek vs. GTK Gliwice" tvg-name="18:00 Poland, PLK : Anwil Wroclawek vs. GTK Gliwice - 06/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Extra 4 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
