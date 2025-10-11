@@ -5,6 +5,12 @@
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Giana Erminio vs Novara" tvg-name="13:30 Italy - Serie C : Giana Erminio vs Novara - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium170/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Perugia vs Rimini" tvg-name="13:30 Italy - Serie C : Perugia vs Rimini - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -28,6 +34,12 @@ https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Picerno vs Casertana" tvg-name="13:30 Italy - Serie C : Picerno vs Casertana - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium171/mono.m3u8
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Latvia vs Andorra" tvg-name="14:00 World Cup Qualifying : Latvia vs Andorra - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 256 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -65,11 +77,23 @@ https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium460/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Pergolettese vs Alcione" tvg-name="16:30 Italy - Serie C : Pergolettese vs Alcione - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 255 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium170/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Forlì vs Ternana" tvg-name="16:30 Italy - Serie C : Forlì vs Ternana - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Nuova Monterosi vs Pianese" tvg-name="16:30 Italy - Serie C : Nuova Monterosi vs Pianese - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium171/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Pineto vs Livorno" tvg-name="16:30 Italy - Serie C : Pineto vs Livorno - 11/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
