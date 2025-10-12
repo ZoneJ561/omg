@@ -569,6 +569,12 @@ https://dokko1new.newkso.ru/dokko1/premium158/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium438/mono.m3u8
 
+#EXTINF:-1 tvg-id="ACB - Bilbao vs San Pablo Burgos ACB" tvg-name="18:00 ACB : Bilbao vs San Pablo Burgos ACB - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", DAZN Spain
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium155/mono.m3u8
+
 #EXTINF:-1 tvg-id="ABA League - KK Borac Cacak vs. Dubai Basketball" tvg-name="18:00 ABA League : KK Borac Cacak vs. Dubai Basketball - 12/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena 4 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
