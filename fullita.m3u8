@@ -29,6 +29,12 @@ https://nfsnew.newkso.ru/nfs/premium26/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie C - Cavese vs Trapani 1905" tvg-name="13:30 Italy - Serie C : Cavese vs Trapani 1905 - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie C - Cosenza vs Atalanta II" tvg-name="13:30 Italy - Serie C : Cosenza vs Atalanta II - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 251 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -70,6 +76,12 @@ https://nfsnew.newkso.ru/nfs/premium25/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium4/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Ospitaletto vs Union ArzignanoChiampo" tvg-name="16:30 Italy - Serie C : Ospitaletto vs Union ArzignanoChiampo - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium109/mono.m3u8
 
 #EXTINF:-1 tvg-id="Italy - Serie C - Ascoli vs Pontedera" tvg-name="16:30 Italy - Serie C : Ascoli vs Pontedera - 12/01/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 252 IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
