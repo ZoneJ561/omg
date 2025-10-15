@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="World Cup Qualifying - Estonia vs Moldova" tvg-name="17:00 World Cup Qualifying : Estonia vs Moldova - 14/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Calcio IT
+#EXTINF:-1 tvg-id="FIFA U20 WC - Morocco U20 vs France U20" tvg-name="21:00 FIFA U20 WC : Morocco U20 vs France U20 - 15/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Rai Sport IT
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium870/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Latvia vs England" tvg-name="19:45 World Cup Qualifying : Latvia vs England - 14/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
+#EXTINF:-1 tvg-id="Serie A1 Women - Agil Volley Novara vs. Fenera Chieri" tvg-name="18:15 Serie A1 Women : Agil Volley Novara vs. Fenera Chieri - 15/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Rai Sport 1 Italy HD
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - Italy vs Israel" tvg-name="19:45 World Cup Qualifying : Italy vs Israel - 14/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RAI 1 IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
-
-#EXTINF:-1 tvg-id="World Cup Qualifying - Portugal vs Hungary" tvg-name="19:45 World Cup Qualifying : Portugal vs Hungary - 14/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Arena IT
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8
 
