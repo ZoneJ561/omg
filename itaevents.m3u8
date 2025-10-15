@@ -167,12 +167,6 @@ https://ddy6new.newkso.ru/ddy6/premium102/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
 
-#EXTINF:-1 tvg-id="FIBA Europe Cup - Lublin vs Bosna" tvg-name="18:30 FIBA Europe Cup : Lublin vs Bosna - 15/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 3 Poland
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium129/mono.m3u8
-
 #EXTINF:-1 tvg-id="Eurocup - Panionios vs JL Bourg" tvg-name="18:30 Eurocup : Panionios vs JL Bourg - 15/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport 303
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -262,6 +256,12 @@ https://windnew.newkso.ru/wind/premium47/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium583/mono.m3u8
+
+#EXTINF:-1 tvg-id="FIBA Europe Cup - Pelister vs Cedevita Junior" tvg-name="19:00 FIBA Europe Cup : Pelister vs Cedevita Junior - 15/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Croatia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium780/mono.m3u8
 
 #EXTINF:-1 tvg-id="FIBA Europe Cup - Pelister vs Cedevita Junior" tvg-name="19:00 FIBA Europe Cup : Pelister vs Cedevita Junior - 15/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 1 Croatia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
