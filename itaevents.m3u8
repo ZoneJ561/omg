@@ -323,6 +323,12 @@ https://zekonew.newkso.ru/zeko/premium891/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium521/mono.m3u8
 
+#EXTINF:-1 tvg-id=" - Euroleague : Dubai Basketball vs. FC Barcelona" tvg-name="18:00 : Euroleague : Dubai Basketball vs. FC Barcelona - 16/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 3 Poland
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium129/mono.m3u8
+
 #EXTINF:-1 tvg-id=" - Euroleague : Dubai Basketball vs. FC Barcelona" tvg-name="18:00 : Euroleague : Dubai Basketball vs. FC Barcelona - 16/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport Premium 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
