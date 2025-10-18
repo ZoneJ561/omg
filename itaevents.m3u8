@@ -41,18 +41,6 @@ https://nfsnew.newkso.ru/nfs/premium3/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie A (women) - Sassuolo vs Como" tvg-name="12:30 Italy - Serie A (women) : Sassuolo vs Como - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
-
-#EXTINF:-1 tvg-id="Italy - Serie A (women) - Genoa vs Ternana" tvg-name="12:30 Italy - Serie A (women) : Genoa vs Ternana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://windnew.newkso.ru/wind/premium59/mono.m3u8
-
 #EXTINF:-1 tvg-id="Bundesliga 2 - Simulcast" tvg-name="13:00 Bundesliga 2 : Simulcast - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Bundesliga 2
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -563,11 +551,35 @@ https://zekonew.newkso.ru/zeko/premium703/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
 
+#EXTINF:-1 tvg-id="Italy - Serie B - Frosinone vs Monza" tvg-name="15:00 Italy - Serie B : Frosinone vs Monza - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium105/mono.m3u8
+
 #EXTINF:-1 tvg-id="Italy - Serie B - Frosinone vs Monza" tvg-name="15:00 Italy - Serie B : Frosinone vs Monza - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Plus Israel
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium145/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Reggiana vs Bari 1908" tvg-name="15:00 Italy - Serie B : Reggiana vs Bari 1908 - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium106/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Mantova vs Südtirol" tvg-name="15:00 Italy - Serie B : Mantova vs Südtirol - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium107/mono.m3u8
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Pescara vs Carrarese" tvg-name="15:00 Italy - Serie B : Pescara vs Carrarese - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium108/mono.m3u8
 
 #EXTINF:-1 tvg-id="Bundesliga - Simulcast" tvg-name="15:30 Bundesliga : Simulcast - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Bundesliga 6
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -779,6 +791,12 @@ https://windnew.newkso.ru/wind/premium463/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs AFC Bournemouth" tvg-name="16:00 England - Premier League : Crystal Palace vs AFC Bournemouth - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Hub Premier
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium110/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Crystal Palace vs AFC Bournemouth" tvg-name="16:00 England - Premier League : Crystal Palace vs AFC Bournemouth - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 5 NZ
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -827,6 +845,12 @@ https://dokko1new.newkso.ru/dokko1/premium94/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium140/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Sunderland vs Wolverhampton Wanderers" tvg-name="16:00 England - Premier League : Sunderland vs Wolverhampton Wanderers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Hub Premier
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium151/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Sunderland vs Wolverhampton Wanderers" tvg-name="16:00 England - Premier League : Sunderland vs Wolverhampton Wanderers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 7 NZ
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -845,6 +869,12 @@ https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium458/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Sunderland vs Wolverhampton Wanderers" tvg-name="16:00 England - Premier League : Sunderland vs Wolverhampton Wanderers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Live 9 France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium156/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Sunderland vs Wolverhampton Wanderers" tvg-name="16:00 England - Premier League : Sunderland vs Wolverhampton Wanderers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 3 Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -857,11 +887,23 @@ https://windnew.newkso.ru/wind/premium431/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
 
+#EXTINF:-1 tvg-id="England - Premier League - Sunderland vs Wolverhampton Wanderers" tvg-name="16:00 England - Premier League : Sunderland vs Wolverhampton Wanderers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium417/mono.m3u8
+
 #EXTINF:-1 tvg-id="England - Premier League - Sunderland vs Wolverhampton Wanderers" tvg-name="16:00 England - Premier League : Sunderland vs Wolverhampton Wanderers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 3
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium93/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Manchester City vs Everton" tvg-name="16:00 England - Premier League : Manchester City vs Everton - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Hub Premier
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium152/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Manchester City vs Everton" tvg-name="16:00 England - Premier League : Manchester City vs Everton - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN1 Spain
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -904,12 +946,6 @@ https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-id="England - Premier League - Manchester City vs Everton" tvg-name="16:00 England - Premier League : Manchester City vs Everton - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", V Sport Premium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Manchester City vs Everton" tvg-name="16:00 England - Premier League : Manchester City vs Everton - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena 1 Premium Serbia
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -976,6 +1012,12 @@ https://windnew.newkso.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Newcastle United" tvg-name="16:00 England - Premier League : Brighton & Hove Albion vs Newcastle United - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Hub Premier
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium153/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Brighton & Hove Albion vs Newcastle United" tvg-name="16:00 England - Premier League : Brighton & Hove Albion vs Newcastle United - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", USA Network
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1078,6 +1120,12 @@ https://dokko1new.newkso.ru/dokko1/premium96/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
+
+#EXTINF:-1 tvg-id="England - Premier League - Burnley vs Leeds United" tvg-name="16:00 England - Premier League : Burnley vs Leeds United - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Hub Premier
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium154/mono.m3u8
 
 #EXTINF:-1 tvg-id="England - Premier League - Burnley vs Leeds United" tvg-name="16:00 England - Premier League : Burnley vs Leeds United - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -1601,12 +1649,6 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium223/mono.m3u8
 
-#EXTINF:-1 tvg-id="England - Premier League - Fulham vs Arsenal" tvg-name="18:30 England - Premier League : Fulham vs Arsenal - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", V Sport Premium
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://ddy6new.newkso.ru/ddy6/premium55/mono.m3u8
-
 #EXTINF:-1 tvg-id="England - Premier League - Fulham vs Arsenal" tvg-name="18:30 England - Premier League : Fulham vs Arsenal - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports 3 Turkey
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1882,12 +1924,6 @@ https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-id="Kuwait - Premier League - Al Qadsia vs Kazma" tvg-name="18:55 Kuwait - Premier League : Al Qadsia vs Kazma - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", KTV Sport
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-https://nfsnew.newkso.ru/nfs/premium7/mono.m3u8
 
 #EXTINF:-1 tvg-id="France - Ligue 1 - Angers SCO vs Monaco" tvg-name="19:00 France - Ligue 1 : Angers SCO vs Monaco - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN France
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -2657,6 +2693,12 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
 
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises United States GP - Sprint" tvg-name="19:00 Formula 1 : MSC Cruises United States GP - Sprint - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
 #EXTINF:-1 tvg-id="Formula 1 - MSC Cruises United States GP - Qualifying" tvg-name="23:00 Formula 1 : MSC Cruises United States GP - Qualifying - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2680,6 +2722,12 @@ https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises United States GP - Qualifying" tvg-name="23:00 Formula 1 : MSC Cruises United States GP - Qualifying - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
 
 #EXTINF:-1 tvg-id="MotoGP - Australian Grand Prix, Warm Up" tvg-name="00:30 MotoGP : Australian Grand Prix, Warm Up - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
@@ -2939,6 +2987,12 @@ https://ddy6new.newkso.ru/ddy6/premium720/mono.m3u8
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium718/mono.m3u8
 
+#EXTINF:-1 tvg-id="Slovakia Extraliga - MBK Handlova vs. Astrum Levice" tvg-name="17:00 Slovakia Extraliga : MBK Handlova vs. Astrum Levice - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", JOJ Sport Slovakia HD
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium169/mono.m3u8
+
 #EXTINF:-1 tvg-id="Polish Basketball League - Gornik Walbrzych vs. Dziki Warszawa" tvg-name="17:30 Polish Basketball League : Gornik Walbrzych vs. Dziki Warszawa - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Polsat Sport 2 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -3124,6 +3178,18 @@ https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://forcedtoplay.xyz
 https://windnew.newkso.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 tvg-id="Slovakia Extraliga, Women - VK Nove Mesto Nad Vahom vs. UKF Nitra" tvg-name="19:30 Slovakia Extraliga, Women : VK Nove Mesto Nad Vahom vs. UKF Nitra - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", JOJ Sport Slovakia HD
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium169/mono.m3u8
+
+#EXTINF:-1 tvg-id="France Ligue A, Women - Volero Le Cannet vs Vandœuvre Nancy Volley-Ball" tvg-name="20:00 France Ligue A, Women : Volero Le Cannet vs Vandœuvre Nancy Volley-Ball - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport en France
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+https://windnew.newkso.ru/wind/premium177/mono.m3u8
 
 #EXTINF:-1 tvg-id="Orlen Liga Women - Stal Mielec vs. Bks Bielsko-Biala" tvg-name="20:30 Orlen Liga Women : Stal Mielec vs. Bks Bielsko-Biala - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
 #EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
